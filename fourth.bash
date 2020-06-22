@@ -5,6 +5,15 @@ read name
 
 echo
 
+echo "Enter your Qualification"
+read study
+
+echo
+
+
+
+
+
 echo "You're intrested in IT (y/n) ? "
 read like
 
@@ -14,4 +23,8 @@ echo "you're doing great and achive big in future"
 else
 echo "Please try IT nothing is good than it "
 fi
+
+echo "Your Name is $name"
+echo
+echo "Your qalification is $study "
 
