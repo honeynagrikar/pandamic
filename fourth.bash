@@ -10,10 +10,13 @@ read study
 
 echo
 
+<<<<<<< Updated upstream
 
 
 
 
+=======
+>>>>>>> Stashed changes
 echo "You're intrested in IT (y/n) ? "
 read like
 
