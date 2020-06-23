@@ -1,4 +1,6 @@
 #!/bin/bash
+# this is the program of even odd
+
 
 echo "enter the number"
 read no
